@@ -1,2 +1,3 @@
 This is the test text file.
 This is the test change for patch.
+This is multi commit patch
