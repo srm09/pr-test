@@ -1,6 +1,6 @@
 ---
 # pull-review config version (required)
-version: 1
+version: 2.5.6
 
 # use review requests instead of assignees to assign reviewers to pull requests
 use_review_requests: false
