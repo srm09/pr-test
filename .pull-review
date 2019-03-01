@@ -37,10 +37,8 @@ require_notification: true
 
 # list of users and their app-specific usernames
 reviewers:
-  afong94:
-    slack: ""
-  lubronzhan:
-    slack: ""
+  afong94: {}
+  lubronzhan: {}
 
 # list of users who will never be notified
 # review_blacklist:
